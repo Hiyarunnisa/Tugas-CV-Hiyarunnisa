@@ -40,6 +40,22 @@
 <li> Max. revisi 2x sebelum lineart dan 1x setelah base color</li>
 <li> Jika meminta revisi setelah lineart, maka akan dikenakan biaya tambahan 5k/revisi</li>
 <li> Payment only via Dana dan Shoopepay </li>
+</hr>
+<hr>
+<h2> FORMAT PEMESANAN </h2>
+		 <div>
+		     <label> Name :</label>
+		     <input type="text" name=Nama value="" placeholder="Write your name here"
+		 </div>
+		 		 <div>
+		     <label> Type of art :</label>
+		     <input type="text" name=Nama value="" placeholder="hey, I’m curious!"
+		 </div>	
+		 <div>
+		     <label> Additional :</label>
+		     <input type="text" name=Nama value="" placeholder="Mhnmh– what do you want?"
+		 </div>
+		 </hr>
 <hr>
 <h3><i> “Can you draw me?” </i></h3>
 <h3> OFC, I CAN! </h3>
@@ -47,3 +63,4 @@
 </body>
 </html>
 		 
+	
